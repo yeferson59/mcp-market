@@ -4,7 +4,7 @@ go 1.25.1
 
 require (
 	github.com/joho/godotenv v1.5.1
-	github.com/modelcontextprotocol/go-sdk v0.5.0
+	github.com/modelcontextprotocol/go-sdk v0.6.0
 )
 
 require (
